@@ -12,6 +12,7 @@ For this software, I used:
 - Python 3.10
 - firebase_admin
 - pyrebase
+- getpass
 
 # The project has 4 files:
 - fb_authentication.py: Contains the code that will authenticate the user
