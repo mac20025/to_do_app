@@ -16,7 +16,7 @@ For this software, I used:
 # The project has 3 files:
 - fb_authentication.py: Contains the code that will authenticate the user
 - fb_operations.py: Stores the functions that handle database operations
-- mains.py: Gets the program running
+- main.py: Gets the program running
 
 # Useful Websites
 
