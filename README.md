@@ -13,10 +13,28 @@ For this software, I used:
 - firebase_admin
 - pyrebase
 
-# The project has 3 files:
+# The project has 4 files:
 - fb_authentication.py: Contains the code that will authenticate the user
 - fb_operations.py: Stores the functions that handle database operations
+- menu.py: A function that manages the menu operations
 - main.py: Gets the program running
+
+# Features
+- User authentication via email and password (Firebase Authentication)
+- Task management:
+  - Add new tasks with a description and due date
+  - View all tasks
+  - Update task status (completed or not)
+  - Delete tasks
+
+# Installation Instructions
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Create and activate a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 
 # Useful Websites
 
