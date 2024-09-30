@@ -2,6 +2,7 @@ import getpass
 from fb_authentication import sign_up, sign_in
 from menu import manage_tasks
 
+# Handles authentication
 def main():
     while True:
         print("\n1. Sign Up\n2. Sign In\n3. Quit")

@@ -1,5 +1,6 @@
 from fb_operations import add_task, get_tasks, update_task, delete_task
 
+# Handles the task options menu
 def manage_tasks():
     while True:
         print("\n1. Add Task\n2. View Tasks\n3. Update Task\n4. Delete Task\n5. Quit")
